@@ -1,0 +1,2 @@
+print ("\t BESİN DEĞERLERİ \n Besin Adı : Karam Gurme \n Marka : Eti \n Piyasaya İlk Sürülme Tarihi : 2011 Ocak ayında \n \tBİR PORSİYONDAKİ BESİN DEĞERLERİ \n Enerji Değeri 258.5 kcal \n Yağ : 14gr \n Donmuş yağ : 8gr \n Karbonhidrat : 29gr \n Lif : 2.3gr \n Protein : 2.85 gr")
+#Bir porsiyonundaki şeker miktarı 5 küp şekere eşit dolayısıyla olabildiğince tüketimi azaltmalıyız yoksa kilo aldırmakla beraber şeker, kalp hastalığı, alerji, diyabet, kanser gibi şiddetli hastalıklara yol açabilir bitter yemenizi öneririm
